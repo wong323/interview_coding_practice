@@ -1,2 +1,2 @@
 # leetcode_practice
-solution and wip leetcode problems
+python solution and wip to leetcode problems
